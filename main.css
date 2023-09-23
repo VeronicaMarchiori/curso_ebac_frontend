@@ -108,3 +108,7 @@ section h2,
 #entertainment {
     background-color: rgba(255, 0, 0, 0.1);
 }
+
+#entertainment .articles article a {
+    background-color: red;
+}
